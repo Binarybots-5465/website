@@ -13,6 +13,7 @@ h1 {
 }
 
 body {
+    font-family: 'Exo';
     background-color: black ;
 }
 
@@ -24,6 +25,7 @@ p {
 
 
 .bee-movie {
+    font-family: 'Press Start 2P';
     font-size: smaller;
     color: green;
 }
